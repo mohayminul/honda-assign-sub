@@ -1,0 +1,30 @@
+.bg-color-header{
+    background-color: #264653;
+    
+}
+.bg-color-faq{
+    background-color: #FFFFFF;
+}
+
+.col-grey img {
+    filter: grayscale(100%);
+  }
+.btn-tomato{
+    background-color : tomato;
+}
+.user-txt-name{
+    color : tomato;
+    display: flex;
+    justify-content: center;
+}
+.user-prof{
+    display: flex;
+    justify-content: center;
+}
+.faq-txt{
+    color: tomato;
+    
+}
+.text-cent{
+    text-align: center;
+}
